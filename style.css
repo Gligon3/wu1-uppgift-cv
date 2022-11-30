@@ -1,24 +1,23 @@
 body {
-    background-color: rgb(249, 183, 103);
-    color: black;
+    background-color: rgb(242, 206, 166);
+    color: rgb(255, 255, 255);
 }
 
 img ,iframe {
     max-width: 100%;
     width: 100%;
-    background-color: white;
 }
 
 .container {
-max-width: min(80ch, 100vw - 4rem);
-margin-inline: auto;
+    max-width: min(80ch, 100vw - 4rem);
+    margin-inline: auto;
 }
 
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 1.2%;
+    font-size: 1.2rem;
 }
 
 nav>ul {
