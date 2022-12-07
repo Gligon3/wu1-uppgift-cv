@@ -60,3 +60,4 @@ När arbetet är klart så reflekterar du utöver din process och dokumenterar d
 * Länk till sidan på GitHub pages.
 * Dokumentation i loggboken.
 * Skisser.
+
